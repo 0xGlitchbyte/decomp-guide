@@ -1,0 +1,6 @@
+[book]
+authors = ["Glitch"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Decompilation Guide"
