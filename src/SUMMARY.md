@@ -1,3 +1,7 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Introduction](../README.md)
+
+- [Getting started](./getting_started.md)
+  - [Splitting a file](./splitting_fie.md)
+  - [Converting MIPs to C](./m2c.md)
