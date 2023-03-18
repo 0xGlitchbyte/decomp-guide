@@ -2,7 +2,7 @@
 
 ## Intro
 
-This book serves as a central collection of knowledge for everything related to one-one decompilation matching.
+This book serves as a central collection of knowledge for everything related to 1:1 decompilation matching.
 
 At present, this book will only cover Nintendo 64 decompilation.
 
